@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-essentials",
+  "version": "1.0.0",
+  "description": "Essentials required to work with NodeJs",
+  "main": "nodeServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedZuberZ/Nodejs-essentials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedZuberZ/Nodejs-essentials/issues"
+  },
+  "homepage": "https://github.com/SyedZuberZ/Nodejs-essentials#readme"
+}
