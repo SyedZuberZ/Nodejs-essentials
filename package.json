@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SyedZuberZ/Nodejs-essentials/issues"
   },
-  "homepage": "https://github.com/SyedZuberZ/Nodejs-essentials#readme"
+  "homepage": "https://github.com/SyedZuberZ/Nodejs-essentials#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }
